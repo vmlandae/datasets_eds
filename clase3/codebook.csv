@@ -1,0 +1,13 @@
+,var_name,descripcion
+0,altura,Indique su altura en cm
+1,region,¿Dónde vives?
+2,sexo,Sexo registrado en el documento de identificación
+3,gaseosa,Bebida gaseosa (con o sin azúcar)
+4,te,Té
+5,cafe,Café
+6,agua,"Agua (de la llave o envasada, con o sin gas)"
+7,extrema_pobreza,Qué porcentaje de la población en países de alto ingreso (como Alemania y Estados Unidos) vive en extrema pobreza (con menos de $2 dólares por día)?
+8,acoso_sexual,¿Qué porcentaje de países del mundo tiene leyes contra el acoso sexual en el trabajo?
+9,perez,¿Cuántas personas crees que hay con apellido paterno Pérez en chile?
+10,larrain,¿Cuántas personas crees que hay con apellido paterno Larraín en chile?
+11,tu_apellido,¿Cuántas personas crees que hay con tu apellido paterno en chile?
